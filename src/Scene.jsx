@@ -69,7 +69,7 @@ const Scene = () => {
       mathWidth={2}
       textAlign="center"
       >
-       Click about Object
+       Click about the background ! 
       
       </Text>
     </>
